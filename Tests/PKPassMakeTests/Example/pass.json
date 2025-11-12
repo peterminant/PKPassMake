@@ -1,0 +1,70 @@
+{
+    "formatVersion": 1,
+    "passTypeIdentifier": "pass.com.sequenex.testpasstype",
+    "teamIdentifier": "Q347FDFXB4",
+    "serialNumber": "0000000001",
+    "organizationName": "Peter Ertl",
+    "description": "Test Pass",
+    "relevantDate": "2023-07-24T19:55+02:00",
+    "expirationDate": "2023-07-25T22:35+01:00",
+    "sharingProhibited": true,
+    "suppressStripShine": true,
+    "backgroundColor": "rgb(255,255,255)",
+    "foregroundColor": "rgb(0,0,0)",
+    "labelColor": "rgb(100,100,255)",
+    "logoText": "Arroz Estudios",
+    "generic": {
+        "headerFields": [],
+        "primaryFields": [
+            {
+                "key": "title",
+                "label": "Yearly Membership",
+                "value": "2023"
+            }
+        ],
+        "secondaryFields": [
+            {
+                "key": "name",
+                "label": "Name",
+                "value": "Peter Ertl"
+            },
+            {
+                "key": "id",
+                "label": "Member #",
+                "value": "10124"
+            }
+        ],
+        "auxiliaryFields": [],
+        "backFields": [
+            {
+                "key": "website",
+                "label": "Website",
+                "value": "arrozestudios.pt"
+            },
+            {
+                "key": "insta",
+                "label": "Instagram",
+                "value": "@arrozestudios"
+            },
+            {
+                "key": "address",
+                "label": "Address",
+                "value": "Calcada de Desterro, 7a\n1150-125 Lisboa"
+            }
+        ]
+    },
+    "barcodes": [
+        {
+            "format": "PKBarcodeFormatPDF417",
+            "messageEncoding": "utf-8",
+            "message": "Peter Ertl"
+        }
+    ],
+    "locations": [
+        {
+          "latitude": 48.5917973,
+          "longitude": 17.8271549999999,
+          "relevantText": "Piešťany, Slovakia"
+        }
+    ]
+}
